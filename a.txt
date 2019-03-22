@@ -1,1 +1,3 @@
 Hello Git
+
+แก้ไขไฟล์งาน a.txt เพื่อเป็น version 2
